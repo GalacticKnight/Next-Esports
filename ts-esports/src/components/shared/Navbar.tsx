@@ -22,6 +22,9 @@ const NavBar = () => {
                             <li>
                                 <a href="https://discord.gg/9WbP66DDJC" className="navbar-link">Discord</a>
                             </li>
+                            <li>
+                                <Link href='/schedule' className="navbar-link">Schedule</Link>
+                            </li>
 
                         </ul>
                     </nav>
