@@ -624,20 +624,12 @@ header {
   font-size: 25px;
   --ionicon-stroke-width: 45px;
 }
-
-
-
-
-
-
 /*-----------------------------------*\
   #GALLERY
 \*-----------------------------------*/
-
 .gallery { 
   padding: var(--section-padding) 0; 
 }
-
 .gallery-list {
   display: flex;
   justify-content: flex-start;
@@ -649,12 +641,10 @@ header {
   scroll-snap-type: inline mandatory;
   padding-inline: 15px;
 }
-
 .gallery-list li {
   min-width: 95%;
   scroll-snap-align: center;
 }
-
 .gallery-item img {
   width: 100%;
   border-radius: 4px;
@@ -663,15 +653,12 @@ header {
   height: 300px;
 }
 
-
 /*-----------------------------------*\
   #TEAM
 \*-----------------------------------*/
-
 .team { 
   padding: var(--section-padding) 0; 
 }
-
 .team-list {
   display: flex;
   flex-wrap: wrap;
